@@ -6,5 +6,6 @@
   "editor.tabSize": 2,
   "workbench.iconTheme": "fira-code-material-minimal",
   "editor.fontFamily": "fira-code-nerd, FiraCode Nerd Font, Consolas, 'Courier New', monospace",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16
 }
