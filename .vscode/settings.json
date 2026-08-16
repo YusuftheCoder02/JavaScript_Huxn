@@ -4,7 +4,7 @@
   "files.autoSave": "afterDelay",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.tabSize": 2,
-  "workbench.iconTheme": "seti",
+  "workbench.iconTheme": "fira-code-material-minimal",
   "editor.fontFamily": "fira-code-nerd, FiraCode Nerd Font, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true
 }
