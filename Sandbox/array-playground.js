@@ -4,7 +4,7 @@ let Skipped = [];
 let NotStarted = [];
 let AllTasks = ["Code JavaScript", "Read 5 pages", "Hit gym", "Meditate", "Drink Water"];
 
-NotStarted = AllTasks.slice(); 
+NotStarted = AllTasks.slice(); // Copy all tasks to NotStarted initially
 InProgress = AllTasks.splice(0,2);
 NotStarted.splice(0,2)
 console.log(InProgress);
